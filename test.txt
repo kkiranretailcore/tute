@@ -3,3 +3,4 @@ this is new line for github
 new changes from test
 new changes from user2
 new branch changes
+new changes in same branch from test
